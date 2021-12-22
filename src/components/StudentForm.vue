@@ -11,9 +11,7 @@
           <q-radio v-model="shape" val="primary" label="primary" />
           <q-radio v-model="shape" val="study" label="study" />
           <q-checkbox v-model="right" label="Label on Right"></q-checkbox>
-                    <q-checkbox v-model="test" label="test"></q-checkbox>
-
-
+           <q-checkbox v-model="test" label="test"></q-checkbox>
         </div>
       </div>
     </div>
